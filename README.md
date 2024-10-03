@@ -34,5 +34,4 @@ This project focuses on automating financial data reconciliation processes to en
 To run this project locally, follow these steps:
 
 1. Clone the repository:
-   ```bash
-  git clone [https://github.com/mdjubaer12/Automated-Financial-Data-Reconciliation.git]
+   ```bash git clone [https://github.com/mdjubaer12/Automated-Financial-Data-Reconciliation.git]
