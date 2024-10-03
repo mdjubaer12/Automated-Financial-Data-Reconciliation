@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project focuses on developing and refining automated reconciliation processes for tracking subscriptions, bookings, and order values across various financial datasets. The automation aims to identify and rectify inconsistencies in data, ensuring accuracy and integrity for reliable financial reporting.
+This project focuses on developing and refining automated reconciliation processes for tracking business across various financial datasets. The automation aims to identify and rectify inconsistencies in data, ensuring accuracy and integrity for reliable financial reporting.
 Dataset link : https://www.kaggle.com/code/nihandincer/customer-relationship-management-crm/input
 ## Key Features
 
