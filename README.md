@@ -1,29 +1,38 @@
-# Automated-Financial-Data-Reconciliation
+# Automated Financial Data Reconciliation Project
 
+## Project Overview
 
-## Overview
-The **Automated Financial Data Reconciliation** project aims to streamline the reconciliation process of financial data across two fiscal years (2009-2010 and 2010-2011) using Python and SQL. This project identifies discrepancies, automates data validation, and generates insightful reports to support accurate financial decision-making.
+This project focuses on automating financial data reconciliation processes to enhance the accuracy and reliability of financial reporting. Utilizing Python and SQL, it tracks subscriptions, bookings, and order values across various systems, ensuring data integrity and streamlining audit procedures.
 
-## Table of Contents
-- [Project Description](#project-description)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
-- [Contributions](#contributions)
-- [License](#license)
+## Objectives
 
-## Project Description
-In this project, financial data from an online retail dataset was cleaned, reconciled, and analyzed to ensure data accuracy. Key functionalities include:
-- Data cleaning and preparation
-- Automated reconciliation of financial records
-- Visualization of discrepancies
-- Generation of reconciliation reports
+- Develop and refine automated reconciliation processes for financial datasets.
+- Identify and rectify inconsistencies in data across multiple platforms.
+- Ensure high data quality to support accurate financial reporting.
 
 ## Technologies Used
-- **Python**: For data manipulation and automation
-- **Pandas**: For data cleaning and analysis
-- **NumPy**: For numerical operations
-- **Matplotlib**: For data visualization
-- **SQL**: For database management
-- **Google Colab**: For running the code in a collaborative environment
+
+- **Programming Languages**: Python
+- **Data Manipulation**: Pandas, NumPy
+- **Database Management**: SQL (SQLite or PostgreSQL)
+- **Data Visualization**: Matplotlib, Power BI
+- **File Handling**: Excel (XLSX)
+
+## Key Features
+
+- Automated reconciliation processes that handle:
+  - Subscriptions
+  - Bookings
+  - Order values
+- Scripts to:
+  - Identify discrepancies between datasets.
+  - Generate reports on data quality and reconciliation results.
+- Data cleaning and transformation techniques to ensure data integrity.
+
+## Installation
+
+To run this project locally, follow these steps:
+
+1. Clone the repository:
+   ```bash
+  git clone https://github.com/mdjubaer12/Automated-Financial-Data-Reconciliation.git
